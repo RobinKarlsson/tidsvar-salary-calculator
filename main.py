@@ -33,4 +33,5 @@ def main(userName = None, passWord = None, startDate = None, endDate = None, sal
 
 if __name__ == '__main__':
     main()
+    raw_input("press enter to exit")
 
